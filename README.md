@@ -1,5 +1,5 @@
 # visTPCKC
-Visualization of all tested cases for the paper "Fast Optimization-Based Trajectory Planning with Cumulative Key Constraints for Automated Parking in Unstructured Environments".
+Visualization of all tested cases for the paper "Fast Optimization-Based Trajectory Planning with Cumulative Key Constraints for Automated Parking in Unstructured Environments" [accepted by IEEE TVT].
 
 <!-- **Paper:**  -->
 
@@ -13,7 +13,6 @@ Visualization of all tested cases for the paper "Fast Optimization-Based Traject
 
 **TPCAP:**
 
-- [Competition](https://www.tpcap.net/#/)
 - [Benchmarks](https://tpcap.github.io/benchmarks/)
 - [Short Paper](https://ieeexplore.ieee.org/document/9983499)
 
